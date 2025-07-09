@@ -21,7 +21,7 @@ class PredictionController extends Controller
         // Forward the image to the Python FastAPI server
         $response = Http::attach(
             'file', file_get_contents($image->getRealPath()), $image->getClientOriginalName()
-        )->post('http://127.0.0.1:8000/predict');
+        )->post('https://7a8a9207e441.ngrok-free.app/predict');
 
         // Check if the request was successful
         if ($response->successful()) {
