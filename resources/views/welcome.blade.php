@@ -208,9 +208,9 @@
     <div class="section">
         <h2>Study Timeline</h2>
         <ul>
-            <li><strong>Pre-App Use:</strong> Complete a consent form (<a href="https://surveys.dal.ca/opinio/s?s=81155">link</a>) and SkinVista questionnaire including demographics (<a href="https://surveys.dal.ca/opinio/s?s=81168">link</a>) (approximately 30 minutes).</li>
-            <li><strong>Part 1: App Use:</strong> Use SkinVista for diagnostic tasks (approximately 25 minutes per session).</li>
-            <li><strong>Part 2: Post-Study Questionnaire:</strong> Complete a feedback survey (15-20 minutes).</li>
+            <li><strong>Pre-App Use:</strong> Complete a consent form (<a href="https://surveys.dal.ca/opinio/s?s=81155">link</a>)</li>
+            <li><strong>Part 1: App Use:</strong> Use SkinVista for diagnostic and other tasks (approximately 25 minutes).</li>
+            <li><strong>Part 2: Post-Study Questionnaire: (<a href="https://surveys.dal.ca/opinio/s?s=81168">link</a>)</strong> (approximately 30 minutes).</li>
             <li><strong>Part 3: Optional Interview:</strong> Participate in a brief discussion about your experience (35-40 minutes).</li>
         </ul>
         <p>Participation is voluntary, and you can withdraw at any time without penalty.</p>
