@@ -215,8 +215,8 @@
         </ul>
         <p>Participation is voluntary, and you can withdraw at any time without penalty.</p>
         <p>
-            <a href="https://surveys.dal.ca/opinio/s?s=81155" class="button">Complete Consent Form</a>
-            <a href="https://surveys.dal.ca/opinio/s?s=81168" class="button">Complete SkinVista Questionnaire</a>
+            <a href="https://surveys.dal.ca/opinio/s?s=81155" target="_blank" class="button">Complete Consent Form</a>
+            <a href="https://surveys.dal.ca/opinio/s?s=81168" target="_blank" class="button">Complete SkinVista Questionnaire</a>
         </p>
     </div>
 
