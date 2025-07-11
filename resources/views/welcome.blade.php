@@ -335,15 +335,15 @@
         <p>
             SkinVista is available through beta testing platforms and is not publicly released. <strong>You must receive an invitation to access the app, as login is not possible without it.</strong> To request an invitation, please provide your email address to the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. Alternatively, you can message the lead researcher on WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> with your email to receive the invitation. Once invited, follow these steps to download and install the app:
         </p>
-        <div class="download-steps">
-            <h3>For iOS Users</h3>
-            <ol>
-                <li>Download the <a href="https://developer.apple.com/testflight/">TestFlight app</a> from the App Store.</li>
-                <li>Check your email for an invitation link from the lead researcher to join the SkinVista beta test.</li>
-                <li>Click the link to open TestFlight and accept the invitation.</li>
-                <li>Install SkinVista through TestFlight.</li>
-            </ol>
-        </div>
+{{--        <div class="download-steps">--}}
+{{--            <h3>For iOS Users</h3>--}}
+{{--            <ol>--}}
+{{--                <li>Download the <a href="https://developer.apple.com/testflight/">TestFlight app</a> from the App Store.</li>--}}
+{{--                <li>Check your email for an invitation link from the lead researcher to join the SkinVista beta test.</li>--}}
+{{--                <li>Click the link to open TestFlight and accept the invitation.</li>--}}
+{{--                <li>Install SkinVista through TestFlight.</li>--}}
+{{--            </ol>--}}
+{{--        </div>--}}
         <div class="download-steps">
             <h3>For Android Users</h3>
             <ol>
