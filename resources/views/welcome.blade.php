@@ -71,14 +71,15 @@
         }
         .button {
             display: inline-block;
-            padding: 0.75rem 1.5rem;
+            padding: clamp(0.5rem, 2vw, 0.75rem) clamp(1rem, 3vw, 1.5rem);
             background: linear-gradient(to right, #0288d1, #0277bd);
             color: #fff;
             text-decoration: none;
             border-radius: 0.375rem;
-            font-size: clamp(1rem, 2.5vw, 1.2rem);
+            font-size: clamp(0.875rem, 2.5vw, 1.2rem);
             transition: transform 0.2s, box-shadow 0.2s;
             margin-right: 0.625rem;
+            text-align: center;
         }
         .button:hover {
             transform: translateY(-0.125rem);
@@ -158,9 +159,9 @@
             }
             .button {
                 display: block;
-                margin-bottom: 0.625rem;
                 width: 100%;
-                text-align: center;
+                margin-bottom: 0.625rem;
+                margin-right: 0;
             }
             .feature-list {
                 grid-template-columns: 1fr;
@@ -192,6 +193,10 @@
             }
             .feature-content h3 {
                 font-size: 1.1rem;
+            }
+            .button {
+                padding: clamp(0.5rem, 2vw, 0.625rem) clamp(0.75rem, 2.5vw, 1.25rem);
+                font-size: clamp(0.75rem, 2vw, 1rem);
             }
         }
     </style>
