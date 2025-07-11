@@ -263,6 +263,22 @@
     </div>
 
     <div class="section">
+        <h2>Privacy Policy</h2>
+        <p>
+            SkinVista uses your camera to capture images of affected skin areas for analysis as part of this research study. We are committed to protecting your privacy:
+        </p>
+        <ul>
+            <li>Images are processed locally on your device where possible and only transmitted to secure servers for analysis by the research team.</li>
+            <li>Personal data (e.g., photos) is anonymized and used solely for study purposes, with no sharing with third parties.</li>
+            <li>Data is stored securely and will be deleted after the study concludes, in compliance with Dalhousie University’s research ethics policies.</li>
+            <li>You can withdraw your data at any time by contacting the lead researcher.</li>
+        </ul>
+        <p>
+            For more details or to review the full policy, contact Olamiposi Precious Olaiya at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. This policy will be updated in the app and Play Store listing once available.
+        </p>
+    </div>
+
+    <div class="section">
         <h2>How to Download SkinVista</h2>
         <p>
             SkinVista is available through beta testing platforms and is not publicly released. To gain access to the app, you must first contact the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> to receive an invitation. Once invited, follow these steps to download and install the app:
