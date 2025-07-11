@@ -15,16 +15,16 @@
             line-height: 1.6;
         }
         .container {
-            max-width: 1000px;
-            margin: 40px auto;
-            padding: 30px;
+            max-width: 90%;
+            margin: 2rem auto;
+            padding: 1.5rem;
             background: #fff;
-            border-radius: 12px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+            border-radius: 0.75rem;
+            box-shadow: 0 0.25rem 1.25rem rgba(0, 0, 0, 0.15);
         }
         .header {
             text-align: center;
-            margin-bottom: 30px;
+            margin-bottom: 1.5rem;
         }
         .header img {
             max-width: 200px;
@@ -35,117 +35,164 @@
             color: #1a3c5e;
         }
         h2 {
-            font-size: 2em;
-            margin-top: 40px;
-            border-bottom: 3px solid #0288d1;
-            padding-bottom: 8px;
+            font-size: clamp(1.5rem, 4vw, 2rem);
+            margin-top: 2rem;
+            border-bottom: 0.1875rem solid #0288d1;
+            padding-bottom: 0.5rem;
         }
         h3 {
-            font-size: 1.5em;
-            margin-top: 25px;
+            font-size: clamp(1.2rem, 3vw, 1.5rem);
+            margin-top: 1.5rem;
         }
         p, li {
-            font-size: 1.15em;
-            margin-bottom: 12px;
+            font-size: clamp(1rem, 2.5vw, 1.15rem);
+            margin-bottom: 0.75rem;
         }
         ul {
             list-style-type: none;
-            padding-left: 20px;
+            padding-left: 1.25rem;
         }
         ul li:before {
             content: '\f058';
             font-family: 'Font Awesome 6 Free';
             font-weight: 900;
             color: #0288d1;
-            margin-right: 10px;
+            margin-right: 0.625rem;
         }
         .section {
-            margin-bottom: 40px;
+            margin-bottom: 2.5rem;
         }
         .highlight {
             background: linear-gradient(to right, #e1f5fe, #b3e5fc);
-            padding: 20px;
-            border-radius: 8px;
-            border-left: 6px solid #0288d1;
-            margin-bottom: 25px;
+            padding: 1.25rem;
+            border-radius: 0.5rem;
+            border-left: 0.375rem solid #0288d1;
+            margin-bottom: 1.5rem;
         }
         .button {
             display: inline-block;
-            padding: 12px 25px;
+            padding: 0.75rem 1.5rem;
             background: linear-gradient(to right, #0288d1, #0277bd);
             color: #fff;
             text-decoration: none;
-            border-radius: 6px;
-            font-size: 1.2em;
+            border-radius: 0.375rem;
+            font-size: clamp(1rem, 2.5vw, 1.2rem);
             transition: transform 0.2s, box-shadow 0.2s;
-            margin-right: 10px;
+            margin-right: 0.625rem;
         }
         .button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transform: translateY(-0.125rem);
+            box-shadow: 0 0.25rem 0.625rem rgba(0, 0, 0, 0.2);
         }
         .feature-list {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.25rem;
         }
         .feature-item {
-            padding: 20px;
+            padding: 1.25rem;
             background: #fafafa;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 0.625rem;
+            box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.1);
             transition: transform 0.3s;
             display: flex;
             align-items: flex-start;
         }
         .feature-item:hover {
-            transform: translateY(-5px);
+            transform: translateY(-0.3125rem);
         }
         .feature-item i {
-            font-size: 2em;
+            font-size: clamp(1.5rem, 4vw, 2rem);
             color: #0288d1;
-            margin-right: 15px;
+            margin-right: 0.9375rem;
         }
         .feature-content h3 {
-            margin: 0 0 10px;
-            font-size: 1.3em;
+            margin: 0 0 0.625rem;
+            font-size: clamp(1rem, 2.5vw, 1.3rem);
         }
         .feature-content p {
             margin: 0;
-            font-size: 1em;
+            font-size: clamp(0.875rem, 2vw, 1rem);
         }
         .download-steps {
             background: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            margin-bottom: 20px;
+            padding: 1.25rem;
+            border-radius: 0.625rem;
+            box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.1);
+            margin-bottom: 1.25rem;
         }
         .download-steps ol {
-            padding-left: 20px;
+            padding-left: 1.25rem;
         }
         .download-steps li {
-            margin-bottom: 10px;
+            margin-bottom: 0.625rem;
         }
         .game-info {
             background: #e8f4f9;
-            padding: 20px;
-            border-radius: 10px;
-            margin-top: 20px;
+            padding: 1.25rem;
+            border-radius: 0.625rem;
+            margin-top: 1.25rem;
         }
         .disclaimer {
             font-style: italic;
             color: #546e7a;
-            margin-top: 25px;
-            padding: 15px;
+            margin-top: 1.5rem;
+            padding: 0.9375rem;
             background: #eceff1;
-            border-radius: 8px;
+            border-radius: 0.5rem;
         }
         .contact-info {
             text-align: center;
-            margin-top: 40px;
-            padding-top: 25px;
-            border-top: 2px solid #b0bec5;
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 0.125rem solid #b0bec5;
+        }
+
+        /* Media Queries for Responsiveness */
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            .header img {
+                max-width: 150px;
+            }
+            .button {
+                display: block;
+                margin-bottom: 0.625rem;
+                width: 100%;
+                text-align: center;
+            }
+            .feature-list {
+                grid-template-columns: 1fr;
+            }
+            h2 {
+                font-size: 1.5rem;
+            }
+            h3 {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                margin: 1rem auto;
+                padding: 0.75rem;
+            }
+            .header img {
+                max-width: 120px;
+            }
+            p, li {
+                font-size: 1rem;
+            }
+            .highlight {
+                padding: 0.75rem;
+            }
+            .feature-item {
+                padding: 0.9375rem;
+            }
+            .feature-content h3 {
+                font-size: 1.1rem;
+            }
         }
     </style>
 </head>
