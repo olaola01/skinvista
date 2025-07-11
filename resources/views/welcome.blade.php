@@ -153,7 +153,7 @@
 <div class="container">
     <div class="header">
         <!-- Placeholder for SkinVista logo (replace with actual image path or base64 data) -->
-        <img src="{{ asset('logo.png') }}" alt="SkinVista Logo">
+        <img src="{{ asset('public/logo.png') }}" alt="SkinVista Logo">
     </div>
 
     <div class="section">
