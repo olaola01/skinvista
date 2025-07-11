@@ -159,7 +159,7 @@
             }
             .button {
                 display: block;
-                width: 100%;
+                width: auto;
                 margin-bottom: 0.625rem;
                 margin-right: 0;
             }
