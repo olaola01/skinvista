@@ -204,7 +204,6 @@
 <body>
 <div class="container">
     <div class="header">
-        <!-- Placeholder for SkinVista logo (replace with actual image path or base64 data) -->
         <img src="{{ asset('public/logo.png') }}" alt="SkinVista Logo">
     </div>
 
@@ -215,7 +214,7 @@
             This study is led by Olamiposi Precious Olaiya, a Master’s student at Dalhousie University, under the supervision of Prof. Rita Orji and co-investigator Dr. Gerry Chan.
         </p>
         <p>
-            Our goal is to explore how augmented reality (AR) and machine learning (ML) can assist in diagnosing seven common skin conditions prevalent among Black Africans: acne, eczema, keloids, fungal infections, pseudofolliculitis barbae, ringworm, and vitiligo. Your participation will help advance dermatological care for underrepresented skin tones using our mobile app, SkinVista.
+            Our goal is to explore how augmented reality (AR) and machine learning (ML) can assist in diagnosing seven common skin conditions prevalent among Black Africans: acne, eczema, keloids, fungal infections, pseudofolliculitis barbae, ringworm, and vitiligo, using our mobile app, SkinVista. SkinVista is a skin health app designed to provide fast diagnostic suggestions for skin conditions.
         </p>
         <div class="highlight">
             <p><strong>Contact:</strong> Olamiposi Precious Olaiya, <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a></p>
@@ -227,13 +226,13 @@
         <h2>Who Can Participate?</h2>
         <p>To be eligible for this study, you must meet the following criteria:</p>
         <ul>
-            <li>Be over 18 years of age (to provide independent consent).</li>
+            <li>Be over 14 years of age (to provide independent consent).</li>
             <li>Be proficient in English (study materials and SkinVista are in English).</li>
             <li>Have access to a smartphone (Android or iOS) compatible with SkinVista.</li>
             <li>Have internet access to download the app and complete study tasks.</li>
             <li>Currently experience one or more of the following skin conditions: acne, eczema, keloids, fungal infections, pseudofolliculitis barbae, ringworm, or vitiligo.</li>
         </ul>
-        <p><strong>Exclusion:</strong> Individuals without at least one of the listed skin conditions are not eligible, as the study involves analyzing affected skin areas using SkinVista.</p>
+        <p><strong>Note:</strong> Please kindly understand that individuals without at least one of the listed skin conditions are not eligible, as the study involves analyzing affected skin areas using SkinVista.</p>
     </div>
 
     <div class="section">
@@ -260,15 +259,15 @@
     <div class="section">
         <h2>Study Timeline</h2>
         <ul>
-            <li><strong>Pre-App Use:</strong> Complete a consent form (<a href="https://surveys.dal.ca/opinio/s?s=81155">link</a>)</li>
+            <li><strong>Pre-App Use:</strong> Complete a consent form (<a href="https://surveys.dal.ca/opinio/s?s=81242">link</a>)</li>
             <li><strong>Part 1: App Use:</strong> Use SkinVista for diagnostic and other tasks (approximately 25 minutes).</li>
-            <li><strong>Part 2: Post-Study Questionnaire: (<a href="https://surveys.dal.ca/opinio/s?s=81168">link</a>)</strong> (approximately 30 minutes).</li>
+            <li><strong>Part 2: Post-Study Questionnaire: (<a href="https://surveys.dal.ca/opinio/s?s=81240">link</a>)</strong> (approximately 30 minutes).</li>
             <li><strong>Part 3: Optional Interview:</strong> Participate in a brief discussion about your experience (35-40 minutes).</li>
         </ul>
         <p>Participation is voluntary, and you can withdraw at any time without penalty.</p>
         <p>
-            <a href="https://surveys.dal.ca/opinio/s?s=81155" target="_blank" class="button">Complete Consent Form</a>
-            <a href="https://surveys.dal.ca/opinio/s?s=81168" target="_blank" class="button">Complete SkinVista Questionnaire</a>
+            <a href="https://surveys.dal.ca/opinio/s?s=81242" target="_blank" class="button">Complete Consent Form</a>
+            <a href="https://surveys.dal.ca/opinio/s?s=81240" target="_blank" class="button">Complete SkinVista Questionnaire</a>
         </p>
     </div>
 
@@ -335,15 +334,6 @@
         <p>
             SkinVista is available through beta testing platforms and is not publicly released. <strong>You must receive an invitation to access the app, as login is not possible without it.</strong> To request an invitation, please provide your email address to the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. Alternatively, you can message the lead researcher on WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> with your email to receive the invitation. Once invited, follow these steps to download and install the app:
         </p>
-{{--        <div class="download-steps">--}}
-{{--            <h3>For iOS Users</h3>--}}
-{{--            <ol>--}}
-{{--                <li>Download the <a href="https://developer.apple.com/testflight/">TestFlight app</a> from the App Store.</li>--}}
-{{--                <li>Check your email for an invitation link from the lead researcher to join the SkinVista beta test.</li>--}}
-{{--                <li>Click the link to open TestFlight and accept the invitation.</li>--}}
-{{--                <li>Install SkinVista through TestFlight.</li>--}}
-{{--            </ol>--}}
-{{--        </div>--}}
         <div class="download-steps">
             <h3>For Android Users</h3>
             <ol>
