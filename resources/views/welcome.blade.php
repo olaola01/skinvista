@@ -340,6 +340,8 @@
                 <li>Check your email for an invitation from the lead researcher to join the internal testing program.</li>
                 <li>Click the link to access the internal testing page on <a href="https://play.google.com/apps/internaltest/4701051500321708103">Google Play</a>.</li>
                 <li>Follow the prompts to become a tester and download SkinVista.</li>
+                <li>Alternatively, download the app directly from the provided Google Drive link: <a href="https://drive.google.com/drive/folders/1BWOMFTfjgqYDvEUKSCeB0oJX8k1BDfzQ?usp=sharing">Google Drive Folder</a>.</li>
+                <li>Use the email <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> to log in to the app after installation.</li>
             </ol>
         </div>
     </div>
