@@ -236,6 +236,23 @@
     </div>
 
     <div class="section">
+        <h2>How to Download SkinVista</h2>
+        <p>
+            SkinVista is available through beta testing platforms and is not publicly released. <strong>You must receive an invitation to access the app, as login is not possible without it.</strong> To request an invitation, please provide your email address to the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. Alternatively, you can message the lead researcher on WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> with your email to receive the invitation. Once invited, follow these steps to download and install the app:
+        </p>
+        <div class="download-steps">
+            <h3>For Android Users</h3>
+            <ol>
+                <li>Check your email for an invitation from the lead researcher to join the internal testing program.</li>
+                <li>Click the link to access the internal testing page on <a href="https://play.google.com/apps/internaltest/4701051500321708103">Google Play</a>.</li>
+                <li>Follow the prompts to become a tester and download SkinVista.</li>
+                <li>Alternatively, download the app directly from the provided Google Drive link: <a href="https://drive.google.com/drive/folders/1BWOMFTfjgqYDvEUKSCeB0oJX8k1BDfzQ?usp=sharing">Google Drive Folder</a>.</li>
+                <li>Use the email <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> to log in to the app after installation.</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="section">
         <h2>What Will You Do in the Study?</h2>
         <p>You will use the SkinVista app to perform the following tasks:</p>
         <ul>
@@ -327,23 +344,6 @@
         <p>
             For more details or to review the full policy, contact Olamiposi Precious Olaiya at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. This policy will be updated in the app and Play Store listing once available.
         </p>
-    </div>
-
-    <div class="section">
-        <h2>How to Download SkinVista</h2>
-        <p>
-            SkinVista is available through beta testing platforms and is not publicly released. <strong>You must receive an invitation to access the app, as login is not possible without it.</strong> To request an invitation, please provide your email address to the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. Alternatively, you can message the lead researcher on WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> with your email to receive the invitation. Once invited, follow these steps to download and install the app:
-        </p>
-        <div class="download-steps">
-            <h3>For Android Users</h3>
-            <ol>
-                <li>Check your email for an invitation from the lead researcher to join the internal testing program.</li>
-                <li>Click the link to access the internal testing page on <a href="https://play.google.com/apps/internaltest/4701051500321708103">Google Play</a>.</li>
-                <li>Follow the prompts to become a tester and download SkinVista.</li>
-                <li>Alternatively, download the app directly from the provided Google Drive link: <a href="https://drive.google.com/drive/folders/1BWOMFTfjgqYDvEUKSCeB0oJX8k1BDfzQ?usp=sharing">Google Drive Folder</a>.</li>
-                <li>Use the email <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> to log in to the app after installation.</li>
-            </ol>
-        </div>
     </div>
 
     <div class="contact-info">
