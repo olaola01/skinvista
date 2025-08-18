@@ -266,7 +266,7 @@
         </p>
         <h3>Incentives</h3>
         <p>
-            All participants are entered into a draw to win one of ten $20 prizes (meaning 10 people will get the chance to win $20), regardless of whether you complete the study or withdraw early. No additional compensation or expenses are involved.
+            First 20 people will win a prize of $10 (N10,000) only 🌟
         </p>
         <p class="disclaimer">
             <strong>Disclaimer:</strong> SkinVista provides suggestive diagnoses with a confidence score, but results may not always be accurate. Always consult a qualified medical professional for an accurate diagnosis and treatment. The app is not a substitute for clinical evaluation.
