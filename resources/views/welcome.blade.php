@@ -128,12 +128,6 @@
         .download-steps li {
             margin-bottom: 0.625rem;
         }
-        .game-info {
-            background: #e8f4f9;
-            padding: 1.25rem;
-            border-radius: 0.625rem;
-            margin-top: 1.25rem;
-        }
         .disclaimer {
             font-style: italic;
             color: #546e7a;
@@ -148,8 +142,6 @@
             padding-top: 1.5rem;
             border-top: 0.125rem solid #b0bec5;
         }
-
-        /* Media Queries for Responsiveness */
         @media (max-width: 768px) {
             .container {
                 padding: 1rem;
@@ -173,7 +165,6 @@
                 font-size: 1.2rem;
             }
         }
-
         @media (max-width: 480px) {
             .container {
                 margin: 1rem auto;
@@ -208,13 +199,12 @@
     </div>
 
     <div class="section">
-        <h2>Study Overview</h2>
+        <h2>Join Our SkinVista Study!</h2>
         <p>
-            Welcome to our research study titled <strong>"Leveraging Augmented Reality and Machine Learning for Suggested Diagnosis of Common Skin Diseases in Black Africans"</strong>.
-            This study is led by Olamiposi Precious Olaiya, a Master’s student at Dalhousie University, under the supervision of Prof. Rita Orji and co-investigator Dr. Gerry Chan.
+            We invite you to participate in an exciting research study titled <strong>"Leveraging Augmented Reality and Machine Learning for Suggested Diagnosis of Common Skin Diseases in Black Africans"</strong>, led by Olamiposi Precious Olaiya, a Master’s student at Dalhousie University, under the supervision of Prof. Rita Orji and co-investigator Dr. Gerry Chan.
         </p>
         <p>
-            Our goal is to explore how augmented reality (AR) and machine learning (ML) can assist in diagnosing seven common skin conditions prevalent among Black Africans: acne, eczema, keloids, fungal infections, pseudofolliculitis barbae, ringworm, and vitiligo, using our mobile app, SkinVista. SkinVista is a skin health app designed to provide fast diagnostic suggestions for skin conditions.
+            Our study explores how augmented reality (AR) and machine learning (ML) can enhance skin health through our innovative mobile app, SkinVista. Whether you have a skin condition or not, your participation can help advance skin health technology for Black Africans!
         </p>
         <div class="highlight">
             <p><strong>Contact:</strong> Olamiposi Precious Olaiya, <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a></p>
@@ -224,21 +214,21 @@
 
     <div class="section">
         <h2>Who Can Participate?</h2>
-        <p>To be eligible for this study, you must meet the following criteria:</p>
+        <p>We welcome a diverse range of participants to join our study! To be eligible, you must:</p>
         <ul>
             <li>Be over 14 years of age (to provide independent consent).</li>
             <li>Be proficient in English (study materials and SkinVista are in English).</li>
             <li>Have access to a smartphone (Android or iOS) compatible with SkinVista.</li>
             <li>Have internet access to download the app and complete study tasks.</li>
-            <li>Currently experience one or more of the following skin conditions: acne, eczema, keloids, fungal infections, pseudofolliculitis barbae, ringworm, or vitiligo.</li>
+            <li><strong>Optional:</strong> Have one or more of the following skin conditions: acne, eczema, keloids, fungal infections, pseudofolliculitis barbae, ringworm, or vitiligo (for diagnostic tasks).</li>
         </ul>
-        <p><strong>Note:</strong> Please kindly understand that individuals without at least one of the listed skin conditions are not eligible, as the study involves analyzing affected skin areas using SkinVista.</p>
+        <p><strong>Good News!</strong> Even if you don’t have a skin condition, you can still participate by testing the app’s usability, exploring its features, and providing valuable feedback to improve SkinVista!</p>
     </div>
 
     <div class="section">
         <h2>How to Download SkinVista</h2>
         <p>
-            SkinVista is available through beta testing platforms and is not publicly released. <strong>You must receive an invitation to access the app, as login is not possible without it.</strong> To request an invitation, please provide your email address to the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. Alternatively, you can message the lead researcher on WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> with your email to receive the invitation. Once invited, follow these steps to download and install the app:
+            SkinVista is available through beta testing platforms and requires an invitation to access. To get started, contact the lead researcher, Olamiposi Precious Olaiya, at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> or via WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> with your email to receive an invitation. Follow these steps to download and install the app:
         </p>
         <div class="download-steps">
             <h3>For Android Users</h3>
@@ -254,21 +244,29 @@
 
     <div class="section">
         <h2>What Will You Do in the Study?</h2>
-        <p>You will use the SkinVista app to perform the following tasks:</p>
+        <p>Depending on your eligibility, you will engage in the following tasks using the SkinVista app:</p>
         <ul>
-            <li><strong>Capture Images:</strong> Take photos of affected skin areas for analysis (approximately 10 minutes per session).</li>
-            <li><strong>Receive Suggestions:</strong> Get suggested diagnoses and recommendations from the app.</li>
-            <li><strong>Save Results (Optional):</strong> Store diagnostic details for future reference.</li>
+            <li><strong>For Participants with Skin Conditions:</strong>
+                <ul>
+                    <li>Capture images of affected skin areas for analysis (approximately 10 minutes per session).</li>
+                    <li>Receive suggested diagnoses and recommendations from the app.</li>
+                    <li>Save results for future reference (optional).</li>
+                </ul>
+            </li>
+            <li><strong>For All Participants:</strong>
+                <ul>
+                    <li>Test the app’s usability and features, such as the interface and game feature.</li>
+                    <li>Provide feedback through a post-study questionnaire.</li>
+                </ul>
+            </li>
         </ul>
-        <h3>Free Follow-Up Session</h3>
+        <h3>Free Consultation Opportunity</h3>
         <p>
-            If the app identifies a skin issue, you can opt for a free consultation with a dermatologist or plastic surgeon from our team. This session provides expert advice tailored to Black skin conditions. After receiving a suggested diagnosis, look for the <strong>"Consult with Doctor"</strong> button in the app to schedule this optional session.
+            If you have a skin condition and the app identifies an issue, you can opt for a free consultation with a dermatologist or plastic surgeon from our team, offering expert advice tailored to Black skin. Look for the <strong>"Consult with Doctor"</strong> button in the app to schedule this optional session.
         </p>
         <h3>Incentives</h3>
         <p>
-{{--            All participants are entered into a draw to win one of ten $20 prizes (meaning 10 people will get the chance to win $20), regardless of whether you complete the study or withdraw early. No additional compensation or expenses are involved.--}}
-
-            First 20 people will win a prize of $10 (N10,000) only 🌟
+            <strong>The first 20 participants will receive an additional $10 (N10,000)</strong>
         </p>
         <p class="disclaimer">
             <strong>Disclaimer:</strong> SkinVista provides suggestive diagnoses with a confidence score, but results may not always be accurate. Always consult a qualified medical professional for an accurate diagnosis and treatment. The app is not a substitute for clinical evaluation.
@@ -278,10 +276,10 @@
     <div class="section">
         <h2>Study Timeline</h2>
         <ul>
-            <li><strong>Pre-App Use:</strong> Complete a consent form (<a href="https://surveys.dal.ca/opinio/s?s=81242">link</a>)</li>
-            <li><strong>Part 1: App Use:</strong> Use SkinVista for diagnostic and other tasks (approximately 25 minutes).</li>
-            <li><strong>Part 2: Post-Study Questionnaire: (<a href="https://surveys.dal.ca/opinio/s?s=81240">link</a>)</strong> (approximately 30 minutes).</li>
-            <li><strong>Part 3: Optional Interview:</strong> Participate in a brief discussion about your experience (35-40 minutes).</li>
+            <li><strong>Pre-App Use:</strong> Complete a consent form (<a href="https://surveys.dal.ca/opinio/s?s=81242">link</a>).</li>
+            <li><strong>Part 1: App Use:</strong> Use SkinVista for diagnostic tasks (if applicable) or usability testing (approximately 20-25 minutes).</li>
+            <li><strong>Part 2: Post-Study Questionnaire:</strong> Provide feedback (<a href="https://surveys.dal.ca/opinio/s?s=81240">link</a>, approximately 15-20 minutes).</li>
+            <li><strong>Part 3: Optional Interview:</strong> Share your experience in a brief discussion (30-35 minutes).</li>
         </ul>
         <p>Participation is voluntary, and you can withdraw at any time without penalty.</p>
         <p>
@@ -292,41 +290,41 @@
 
     <div class="section">
         <h2>SkinVista App Features</h2>
-        <p>SkinVista is designed to be intuitive and engaging. Explore its key features below:</p>
+        <p>SkinVista is user-friendly and engaging. Explore its key features below:</p>
         <div class="feature-list">
             <div class="feature-item">
                 <i class="fas fa-camera"></i>
                 <div class="feature-content">
                     <h3>Guided Image Capture</h3>
-                    <p>Position the affected skin area within the frame, and the app guides you to capture a clear image. Our system ensures privacy by automatically validating image content.</p>
+                    <p>Position your skin within the frame for clear image capture, with privacy ensured through automatic content validation.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <i class="fas fa-diagnoses"></i>
                 <div class="feature-content">
                     <h3>Instant Analysis</h3>
-                    <p>Receive real-time analysis of your skin condition with detailed recommendations based on the submitted image.</p>
+                    <p>Get real-time analysis and recommendations for skin conditions based on your images.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <i class="fas fa-history"></i>
                 <div class="feature-content">
                     <h3>Health Tracking</h3>
-                    <p>Keep track of your skin health by saving diagnosis results to your personal history for future reference.</p>
+                    <p>Save diagnosis results to track your skin health over time.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <i class="fas fa-user-md"></i>
                 <div class="feature-content">
                     <h3>Professional Consultation</h3>
-                    <p>Connect with dermatologists for expert advice when you need it, directly through the app.</p>
+                    <p>Connect with dermatologists for expert advice directly through the app.</p>
                 </div>
             </div>
             <div class="feature-item">
                 <i class="fas fa-gamepad"></i>
                 <div class="feature-content">
                     <h3>Fun Game Feature</h3>
-                    <p>Enjoy a built-in game to relax and engage with the app in a fun way while participating in the study.</p>
+                    <p>Enjoy a built-in game to make your experience with SkinVista engaging and fun!</p>
                 </div>
             </div>
         </div>
@@ -335,22 +333,22 @@
     <div class="section">
         <h2>Privacy Policy</h2>
         <p>
-            SkinVista uses your camera to capture images of affected skin areas for analysis as part of this research study. We are committed to protecting your privacy:
+            SkinVista uses your camera for image capture (for those with skin conditions) and ensures your privacy:
         </p>
         <ul>
-            <li>Images are processed locally on your device where possible and only transmitted to secure servers for analysis by the research team.</li>
-            <li>Personal data (e.g., photos) is anonymized and used solely for study purposes, with no sharing with third parties.</li>
-            <li>Data is stored securely and will be deleted after the study concludes, in compliance with Dalhousie University’s research ethics policies.</li>
-            <li>You can withdraw your data at any time by contacting the lead researcher.</li>
+            <li>Images are processed locally where possible and transmitted securely for analysis.</li>
+            <li>Personal data is anonymized and used only for research, with no third-party sharing.</li>
+            <li>Data is stored securely and deleted after the study, per Dalhousie University’s ethics policies.</li>
+            <li>Withdraw your data at any time by contacting the lead researcher.</li>
         </ul>
         <p>
-            For more details or to review the full policy, contact Olamiposi Precious Olaiya at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>. This policy will be updated in the app and Play Store listing once available.
+            For details, contact Olamiposi Precious Olaiya at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a>.
         </p>
     </div>
 
     <div class="contact-info">
         <h2>Questions?</h2>
-        <p>Contact Olamiposi Precious Olaiya at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> or via WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> for any questions about the study or to request access to the SkinVista app.</p>
+        <p>Contact Olamiposi Precious Olaiya at <a href="mailto:ol264778@dal.ca">ol264778@dal.ca</a> or via WhatsApp at <a href="https://wa.me/17828829041">+1 782-882-9041</a> for questions or to request SkinVista access.</p>
     </div>
 </div>
 </body>
